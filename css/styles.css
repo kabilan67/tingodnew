@@ -1,0 +1,57 @@
+#phoneimg{
+
+position: relative;
+left: 50%;
+
+}
+
+
+
+#brandname{
+    font-size: xx-large;
+    font-weight: 400;
+}
+.headnav{
+    text-decoration: none;
+}
+pre{
+    font-size: xx-large;
+    font-weight: bolder;
+   
+}
+.featureshead{
+    font-family: britannic;
+    font-size: x-large;
+    
+}
+#testimonials{
+    background-color: #FF7F3F;
+    color: white;
+}
+#press{
+    background-color: #FF7F3F;
+    
+}
+.pricehead{
+    font-family: britannic;
+    font-size: x-large;
+}
+#pricing{
+    padding-top: 50px;
+}
+#head{
+    background-color: #FF2442;
+}
+#header{
+    background-color: #FF2442;
+}
+#cta{
+    text-align: center;
+    color: white;
+    background-color: #FF2442;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footh3{
+    font-weight: bolder;
+}
